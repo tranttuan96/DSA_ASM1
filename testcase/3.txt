@@ -1,0 +1,11 @@
+Input R1
+Output R1
+Input R1
+Output R1
+Input R1
+Output R1
+Input R1
+Output R1
+Input R1
+Output R1
+Halt
