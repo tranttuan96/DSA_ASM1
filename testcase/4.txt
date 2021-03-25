@@ -1,0 +1,5 @@
+Move R1, 5
+Move R2, 0.0
+Div R1, R2
+Output R1
+Halt

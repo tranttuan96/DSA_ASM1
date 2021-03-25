@@ -1,0 +1,3 @@
+Move R1, 4.9999999
+Output R1
+Halt
